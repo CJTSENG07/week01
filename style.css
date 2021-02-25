@@ -58,6 +58,7 @@ main{
     .box{width:90%;}
     .icon{display:contents;}
     .item{display: none;}
+    .logo{width:100px;height:30px;}
 }
 
 
